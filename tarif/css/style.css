@@ -1,0 +1,30 @@
+body{
+    background-color: moccasin;
+}
+.bir{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 300px;
+}
+.iki{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.uc{
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.dort{
+    margin-left: 300px;
+    font-size: 18px;
+}
+.bes{
+    margin-left: 1200px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+}
