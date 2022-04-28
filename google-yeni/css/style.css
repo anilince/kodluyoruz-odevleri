@@ -36,6 +36,7 @@ nav img{
     font-size: 16px;
     margin: 0 auto;
     padding: 15px;
+    padding-left: 40px;
     width: 480px;
     box-shadow: 4px 4px 6px gray;
 }
@@ -50,17 +51,17 @@ nav img{
     margin: 4px;
     box-shadow: 4px 4px 6px gray;
 }
-.orta .orta-bir{
-    position: absolute;
+.orta-bir{
+    position: relative;
     width: 20px;
-    top: 14px;
-    left: 710px;
+    top: 38px;
+    right: 244px;
 }
-.orta .orta-uc{
-    position: absolute;
+.orta-uc{
+    position: relative;
     width: 26px;
-    top: 10px;
-    right: 710px;
+    top: 38px;
+    left: 244px;
 }
 .alt{
     position: fixed;
