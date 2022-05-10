@@ -9,7 +9,7 @@ function showTime() {
     var second = date.getSeconds();
     var day = date.getDay();
 
-    var days = ["Pazar", "Pazartesi", "Salı", "Çarşşamba", "Perşembe", "Cuma", "Cumartesi"]
+    var days = ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"]
     var dayName = days[day]
 
     hour = hour < 10 ? "0" + hour : hour;
