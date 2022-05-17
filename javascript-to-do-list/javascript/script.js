@@ -24,6 +24,10 @@ list.addEventListener(`click`, function(ev) {
     }
 } , false);
 
+span.addEventListener('click', function(){
+    span.style.textDecoration = 'line-through';
+})
+
 function newElement() {
     var li = document.createElement("li");
     var inputValue = document.getElementById("task").value;
